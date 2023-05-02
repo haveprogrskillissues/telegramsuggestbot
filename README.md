@@ -1,5 +1,4 @@
 # telegramsuggestbot
-___
 ## Introduction
 This is the simple suggest bot for Telegram, nothing more. :)
 Uses Node.js for processing data, and some libraries for working with Telegram API and database (SQLite):
