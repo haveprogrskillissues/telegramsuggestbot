@@ -1,0 +1,6 @@
+.env
+tests/
+data.db
+node_modules
+projectdiagram.drawio
+.$projectdiagram.drawio.bkp

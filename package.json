@@ -1,0 +1,26 @@
+{
+  "name": "telegramsuggestbot",
+  "version": "0.1.0",
+  "description": "Source code from simple suggest bot for my Telegram channel :D",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./tests/index.js"
+  },
+  "keywords": [],
+  "author": "usernamewithwords",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "knex": "^2.4.2",
+    "node-cache": "^5.1.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.21",
+    "pino": "^8.11.0",
+    "pm2": "^5.2.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
