@@ -8,7 +8,7 @@
     "test": "node ./tests/index.js"
   },
   "keywords": [],
-  "author": "usernamewithwords",
+  "author": "haveprogrskillissues",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
